@@ -20,9 +20,7 @@ Data Exploration:
 Data Exploration:
 
 4. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
-
 5. Create scatter charts between the pair of variables to understand the relationships. Describe your findings.
-
 6. Perform correlation analysis. Visually explore it using a heat map.
  
 Project Task: Week 2
